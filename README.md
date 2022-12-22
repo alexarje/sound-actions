@@ -27,7 +27,4 @@ As an [Open Research advocate](https://www.arj.no/2020/08/27/open-research/), I 
 
 ## License
 
-The final book is published with a [CC-BY-NC-ND](https://www.creativecommons.org/licenses/by-nc-nd/4.0/) license. The source code is available with a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license. That means that you are: 
-
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+The book is published with a [CC-BY-NC-ND](https://www.creativecommons.org/licenses/by-nc-nd/4.0/) license.
